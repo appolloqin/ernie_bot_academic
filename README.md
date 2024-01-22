@@ -7,3 +7,12 @@ gradio==3.28.0
 # api_type access_token申请地址
 [注册地址](https://aistudio.baidu.com/aistudio/newbie?invitation=1&sharedUserId=2320750&sharedUserName=apolloai)
 [token地址](https://aistudio.baidu.com/index/accessToken)
+# 效果图
+![运行图](https://github.com/appolloqin/ernie_bot_academic/blob/main/1.png)
+# 安装 
+## 安装完python后
+## 使用如下命名
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple/
+# 运行
+python mian.py 即可运行
+
